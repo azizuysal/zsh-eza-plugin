@@ -1,5 +1,7 @@
 # zsh-eza-plugin
 
+*Forked from [`zsh-exa-plugin`](https://codeberg.org/caughtquick/zsh-exa-plugin) as [`exa`](https://github.com/ogham/exa) is deprecated.*
+
 This zsh plugin enables a number of aliases allowing `eza`, to act as a drop-in
 replacement for `ls` and `tree`.
 
@@ -14,8 +16,6 @@ using [Oh My Zsh](https://ohmyz.sh/), Clone the repo to
 `~/.oh-my-zsh/custom/plugins`.
 
 Finally, add `zsh-eza` to the plugins array of your zshrc file:
-
 ```sh
 plugins=(... zsh-eza)
 ```
-
